@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@azure/event-hubs": "^1.0.8",
+    "node-rdkafka": "^2.6.1"
+  }
+}
